@@ -1,3 +1,6 @@
+# Real-Time Crypto Price Tracker
+## Project Description :speech_balloon:📚
+This app is a crypto-currency tracking website that livestreams information of over 13,000 coins, utilizing CoinAPI to fetch the latest data. It features dynamic coin price charts to increase user engagement, built using React and Redux Tool Kit. Stay informed about the latest cryptocurrency prices and make more informed investment decisions.
 
 ## Cloning the repository :outbox_tray:
 -> Clone the repository using the command below :
