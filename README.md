@@ -1,5 +1,13 @@
 
-
+## Cloning the repository :outbox_tray:
+-> Clone the repository using the command below :
+``` 
+git clone https://github.com/tuancai99/CryptoTracker.git
+```
+-> Move into the directory where we have the project files :
+``` 
+cd StudyBud 
+```
 ## Running the App :desktop_computer:	
 
 In the project directory, you can run:
